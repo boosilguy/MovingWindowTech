@@ -1,4 +1,7 @@
 <h1>Moving Window Technique (2021)</h1>
+
+![title](./main.png)
+
 <p>해당 페이지에서 Moving Window Technique 프로젝트의 실험 프로그램을 소개합니다.</p>
 
 <h2>Tech Stack</h2>
